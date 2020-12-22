@@ -1,0 +1,10 @@
+Key Promoter X
+Lombook Plugin
+PlantUML integration
+com.intellij.plugins.thrift
+com.thvardhan.gradianto
+com.weirddev.testme
+me.scana.okgradle
+org.asciidoctor.intellij.asciidoc
+org.mapstruct.intellij
+some.awesome

@@ -1,0 +1,11 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'corp-transactions-audit-joiner'" />
+    <option name="defaultScopeName" value="Project 'corp-transactions-audit-joiner'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'corp-transactions-audit-joiner'" />
+  </component>
+</application>
